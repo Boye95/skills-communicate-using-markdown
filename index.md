@@ -19,3 +19,9 @@ const options = useMemo(
     [results],
 );
 ```
+
+- [ ] tested locally
+- [ ] added new dependencies
+- [ ] updated the docs
+- [ ] added/updated a component
+- [ ] fixed a bug
